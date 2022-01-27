@@ -1,0 +1,29 @@
+{
+  "name": "arqsoftlab2",
+  "version": "1.0.0",
+  "description": "calculadora udea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohmono/ArqSoftLab2.git"
+  },
+  "keywords": [
+    "suma",
+    "resta",
+    "mult",
+    "div"
+  ],
+  "author": "cardona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohmono/ArqSoftLab2/issues"
+  },
+  "homepage": "https://github.com/ohmono/ArqSoftLab2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
